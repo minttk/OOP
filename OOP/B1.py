@@ -1,4 +1,4 @@
-def totalseconds=42*60+42
+totalseconds=42*60+42
 print (totalseconds)
 miles=10/1.61
 totalmiles=round(miles,2)
